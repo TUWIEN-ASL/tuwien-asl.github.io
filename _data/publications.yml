@@ -1,0 +1,190 @@
+- id: REASSEMBLE
+  title: "REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly"
+  venue: "Robotics: Science and Systems 2025 (RSS 2025)"
+  description: "We release a multimodal dataset for long-horizon contact-rich assembly and disassembly tasks"
+  project_page: https://dsliwowski1.github.io/REASSEMBLE_page/
+  arxiv: 2502.05086
+  image: REASSEMBLE.png
+  authors:
+    - danielsli
+    - sjadav
+    - sstanovcic
+    - jheidersberger
+    - jorbik
+    - dongheuilee
+
+- id: RiTA_HAR
+  title: "Multimodal Transformer Models for Human Action Classification"
+  venue: International Conference on Robot Intelligence Technology and Applications (RiTA 2024)
+  description: "We investigate how best to fuse multimodal information for the task of human action recognition."
+  # project_page: NotAvaiable
+  # arxiv: NotAvaiable
+  image: Rita_HAR.png
+  authors:
+    - zvarga
+    - esteve
+    - danielsli
+    - dongheuilee
+  awards:
+    - "Winner of Best Intelligence Paper"
+
+- id: ConditionNET
+  title: "ConditionNET: Learning Preconditions and Effects for Anomaly Detection and Recovery"
+  venue: IEEE Robotics and Automation Letters
+  description: "Learn Preconditions and Effects of actions in a data-driven manner, and leverage the learned conditions for anomaly detection."
+  project_page: https://dsliwowski1.github.io/ConditionNET_page
+  arxiv: 2502.01167
+  image: ConditionNet.png
+  authors:
+    - danielsli
+    - dongheuilee
+
+- id: SAW
+  title: "Know your limits! Optimize the behavior of bipedal robots through self-awareness"
+  venue: Humanoids 2024 and HFR 2024
+  description: "Enhance robot behavior to follow any textual and movement command by recognizing its own limitations and expertise"
+  project_page: "https://evm7.github.io/Self-AWare/"
+  arxiv: 2409.10308
+  image: saw.gif
+  authors:
+    - esteve
+    - dongheuilee
+  # awards:
+  #   - "Oral"
+    
+- id: I-CTRL
+  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"
+  venue: IEEE Robotics and Automation Magazine
+  description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
+  project_page: "https://evm7.github.io/I-CTRL/"
+  arxiv: 2405.08726
+  image: ictrl.gif
+  authors:
+    - yashuaiyan
+    - esteve
+    - tegle
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+    
+- id: ECHO
+  title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA 2024)"
+  description: "Generating robot motions in social interactions conditioned on semantics, and without any robot data!"
+  project_page: "https://evm7.github.io/ECHO/"
+  arxiv: 2402.04768
+  image: echo.gif
+  authors:
+    - esteve
+    - yashuaiyan
+    - dongheuilee
+
+- id: SALADS
+  title: "Shared Autonomy via Variable Impedance Control and Virtual Potential Fields for Encoding Human Demonstrations"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA 2024)"
+  description: "We demonstrate efficient and safe human-robot collaboration through shared autonomy for industrial tasks."
+  project_page: https://shailjadav.github.io/SALADS/
+  arxiv: "2403.12720"
+  image: SALADS.gif
+  authors:
+    - sjadav
+    - jheidersberger
+    - cott
+    - dongheuilee
+    
+- id: UNIMASK-M
+  title: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis"
+  venue: AAAI 2024
+  description: "How can we tackle all variations of human motion synthesis using a unique architecture? UNIMASK-M"
+  project_page: "https://evm7.github.io/UNIMASKM-page/"
+  arxiv: 2308.07301
+  image: unimaskm.gif
+  authors:
+    - esteve
+    - hyeminahn
+    - dongheuilee
+    
+- id: ImitationNet
+  title: "Unsupervised human-to-robot motion retargeting via expressive latent space"
+  venue: Humanoids 2023
+  description: "Learn how real robots can imitate human movements from different modalities in an unsupervised manner"
+  project_page: "https://evm7.github.io/UnsH2R/"
+  arxiv: 2309.05310
+  image: unsh2r.gif
+  authors:
+    - yashuaiyan
+    - esteve
+    - dongheuilee
+  # awards:
+  #   - "Oral"
+    
+- id: hoi4abot
+  title: "HOI4ABOT: Human-Object Interaction Anticipation for Assistive roBOTs"
+  venue: Conference on Robot Learning (CoRL 2023)
+  description: "Detect and anticipate human-object interactions for intention reading, which facilitate robots to assist humans."
+  project_page: "https://evm7.github.io/HOI4ABOT_page/"
+  arxiv: 2309.16524
+  image: hoi4abot.png
+  authors:
+    - esteve
+    - danielsli
+    - dongheuilee
+
+- id: hoigaze
+  title: "Human–object interaction prediction in videos through gaze following"
+  venue: CVIU 2023
+  description: "Leveraging gaze provides essential cues for predicting the human intention, which helps to anticipate the human-object interactions."
+  project_page: "https://evm7.github.io/HOIGaze-page/"
+  github: nizhf/hoi-prediction-gaze-transformer
+  arxiv: 2306.03597
+  image: hoigaze.png
+  authors:
+    - zhifanni
+    - esteve
+    - hyeminahn
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+    
+- id: diffusionmotion
+  title: "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?"
+  venue: IEEE International Conference on Robotics and Automation (ICRA 2023)
+  description: "Diffusion models offer the right balance between likelihood and diversity when synthesizing human motions from past observations."
+  project_page: "https://sites.google.com/view/diffusion-motion-prediction"
+  github: cotton-ahn/diffusion-motion-prediction
+  arxiv: 2302.14503
+  image: diffmodel.png
+  authors:
+    - hyeminahn
+    - esteve
+    - dongheuilee
+
+- id: intentioncvae
+  title: "Intention-Conditioned Long-Term Human Egocentric Action Forecasting"
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV 2023)
+  description: "Understanding the human intention is key for a better prediction of what a human will do in the long-term."
+  project_page: "https://evm7.github.io/icvae-page/"
+  github: Evm7/ego4dlta-icvae
+  arxiv: 2207.12080
+  image: intentioncvae.png
+  authors:
+    - esteve
+    - hyeminahn
+    - dongheuilee
+  awards:
+    - "Winner of Ego4D LTA Challenge in CVPR2022 and ECCV2022"
+
+- id: twochtr
+  title: "Robust Human Motion Forecasting using Transformer-based Model"
+  venue: International Conference on Intelligent Robots and Systems (IROS 2022)
+  description: "Decoupling space and time in human motion forecasting allows for more robust and efficient models."
+  project_page: "https://evm7.github.io/2CHTR-page/"
+  arxiv: 2302.08274
+  image: twochtr.gif
+  authors:
+    - esteve
+    - shuoma
+    - hyeminahn
+    - dongheuilee
+
+
