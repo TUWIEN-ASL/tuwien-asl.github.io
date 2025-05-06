@@ -2,7 +2,7 @@
   title: "REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly"
   venue: "Robotics: Science and Systems 2025 (RSS 2025)"
   description: "We release a multimodal dataset for long-horizon contact-rich assembly and disassembly tasks"
-  project_page: https://dsliwowski1.github.io/REASSEMBLE_page/
+  project_page: https://tuwien-asl.github.io/REASSEMBLE_page/
   arxiv: 2502.05086
   image: REASSEMBLE.png
   authors:
