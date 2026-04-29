@@ -8,10 +8,6 @@ body { font-family: "Noto Sans", sans-serif; }
 
 .footer .footer-links a { font-size: 25px; color: #000; }
 
-.scrollable-list { max-height: 320px; overflow-y: auto; padding-right: 0.5em; }
-
-.scrollable-publications { max-height: 800px; overflow-y: auto; padding-right: 0.5em; }
-
 .publication-block .publication-title { width: fit-content; margin: 0 !important; font-weight: 600; font-size: 110% !important; }
 
 .publication-block .publication-title a { color: #000; }
