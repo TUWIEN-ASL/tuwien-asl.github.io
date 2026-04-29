@@ -77,11 +77,11 @@ jhryu:
 cli:
   first_name: Chengxi
   last_name: Li
-  website:
+  website: https://www.tuwien.at/en/etit/ict/asl/team/chengxi-li
 dongmyoung:
   first_name: Dongmyoung
-  last_name:
-  website:
+  last_name: Lee
+  website: https://www.tuwien.at/en/etit/ict/asl/team/dongmyoung-lee
 cwillibald:
   first_name: Christoph
   last_name: Willibald

@@ -34,6 +34,7 @@
   venue: "IEEE Robotics & Automation Magazine"
   description: "We learn a unified latent space enabling cross-embodiment imitation for multirobot control."
   image: crossembodiment.png
+  arxiv: 2601.15419v1
   authors:
     - yashuaiyan
     - dongheuilee
@@ -69,6 +70,7 @@
   venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)"
   description: "We propose a mixture-of-experts approach for multimodal anomaly detection in robotic manipulation tasks."
   image: moe_anomaly.png
+  arxiv: 2506.19077
   authors:
     - cwillibald
     - danielsli
