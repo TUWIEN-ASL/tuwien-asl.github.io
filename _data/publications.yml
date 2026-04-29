@@ -1,3 +1,119 @@
+- id: M2R2
+  title: "M2R2: MultiModal Robotic Representation for Temporal Action Segmentation"
+  venue: "IEEE International Conference on Robotics & Automation (ICRA 2026)"
+  description: "We propose a multimodal robotic representation for temporal action segmentation in long-horizon manipulation tasks."
+  project_page: https://tuwien-asl.github.io/M2R2_page/
+  arxiv: 2504.18662
+  image: m2r2.png
+  authors:
+    - danielsli
+    - dongheuilee
+
+- id: ATLAS
+  title: "ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation"
+  venue: "IEEE International Conference on Advanced Robotics and Its Social Impact (ARSO 2026)"
+  description: "We present an annotation tool designed for efficient labeling of long-horizon robotic action segmentation datasets."
+  image: atlas.png
+  project_page: https://tuwien-asl.github.io/ATLAS_page/
+  authors:
+    - sstanovcic
+    - danielsli
+    - dongheuilee
+
+- id: DexTwist
+  title: "DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation"
+  venue: "IEEE International Conference on Advanced Robotics and Its Social Impact (ARSO 2026)"
+  description: "We propose a dexterous hand retargeting method for twist motions using mixed reality-based teleoperation."
+  image: dextwist.png
+  authors:
+    - dongmyoung
+    - cli
+
+- id: CrossEmbodiment
+  title: "Cross-Embodiment Imitation: Learning a Unified Latent Space for Multirobot Control"
+  venue: "IEEE Robotics & Automation Magazine"
+  description: "We learn a unified latent space enabling cross-embodiment imitation for multirobot control."
+  image: crossembodiment.png
+  authors:
+    - yashuaiyan
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+
+- id: CITAS
+  title: "Constraint-Informed Temporal Action Segmentation"
+  venue: "25th International Conference on Control, Automation and Systems (ICCAS 2025)"
+  description: "We propose constraint-informed temporal action segmentation leveraging robot kinematic and task constraints."
+  image: citas.png
+  authors:
+    - danielsli
+    - sspark
+    - khlee
+    - dkim
+    - jhryu
+    - dongheuilee
+
+- id: SocialHRI
+  title: "Robot Behavior Generation for Social Human-Robot Interaction"
+  venue: "International Journal of Social Robotics (2025)"
+  description: "We propose a method for generating robot interaction behaviors conditioned on social context for human-robot interaction."
+  image: socialhri.png
+  authors:
+    - esteve
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+
+- id: MoE_Anomaly
+  title: "Multimodal Anomaly Detection with a Mixture-of-Experts"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)"
+  description: "We propose a mixture-of-experts approach for multimodal anomaly detection in robotic manipulation tasks."
+  image: moe_anomaly.png
+  authors:
+    - cwillibald
+    - danielsli
+    - dongheuilee
+
+- id: PersonalizedRetargeting
+  title: "Personalized Motion Retargeting through Bidirectional Human-Robot Imitation"
+  venue: "IEEE International Conference on Development and Learning (ICDL 2025)"
+  description: "We propose personalized motion retargeting via bidirectional human-robot imitation learning."
+  image: personalizedretargeting.png
+  authors:
+    - yashuaiyan
+    - cli
+    - dongheuilee
+
+- id: SelfExploration
+  title: "Computational models of the emergence of self-exploration in 2-month-old infants"
+  venue: "IEEE International Conference on Development and Learning (ICDL 2025)"
+  description: "We present computational models that account for the emergence of self-exploration behavior in early infancy."
+  image: selfexploration.png
+  authors:
+    - jspisak
+    - jbenad
+    - jheidersberger
+    - sverschoor
+    - planillos
+    - dongheuilee
+    - stpopescu
+
+- id: PartnerFamiliarity
+  title: "Partner familiarity enhances performance in a manual precision task"
+  venue: "Scientific Reports, 15(1), 23381 (2025)"
+  description: "We demonstrate that partner familiarity improves performance and coordination in dyadic manual precision tasks."
+  image: partnerfamiliarity.png
+  authors:
+    - jheidersberger
+    - jkaiser
+    - sjadav
+    - lmihiczidar
+    - acurioni
+    - ljohannsen
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+
 - id: REASSEMBLE
   title: "REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly"
   venue: "Robotics: Science and Systems 2025 (RSS 2025)"
@@ -11,6 +127,75 @@
     - sstanovcic
     - jheidersberger
     - jorbik
+    - dongheuilee
+
+- id: DexterousHand
+  title: "Learning dexterous robot hand control by imitating human hands"
+  venue: "22nd International Conference on Ubiquitous Robots (UR 2025)"
+  description: "We learn dexterous robot hand control by directly imitating human hand demonstrations."
+  image: dexteroushand.png
+  authors:
+    - yashuaiyan
+    - dongheuilee
+
+- id: SocialTouch
+  title: "The balance stabilising benefit of social touch: influence of an individual's age and the partner's relative body characteristics"
+  venue: "PLOS ONE, 20(6), e0314946 (2025)"
+  description: "We investigate how social touch contributes to balance stabilization and how age and partner characteristics influence this effect."
+  image: socialtouch.png
+  authors:
+    - khschulleri
+    - dongheuilee
+    - ljohannsen
+  awards:
+    - "Journal Paper"
+
+- id: OutputTracking
+  title: "Ultimate Boundedness and Output Convergence of Prioritized Output Tracking Control Under Nonsmooth and Imperfect Feedback Linearization"
+  venue: "IEEE Transactions on Automatic Control (2025)"
+  description: "We analyze the stability and convergence properties of prioritized output tracking control under imperfect feedback linearization."
+  image: outputtracking.png
+  authors:
+    - sian
+    - dongheuilee
+    - gpark
+  awards:
+    - "Journal Paper"
+
+- id: I-CTRL
+  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"
+  venue: IEEE Robotics and Automation Magazine
+  description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
+  project_page: "https://evm7.github.io/I-CTRL/"
+  arxiv: 2405.08726
+  image: ictrl.gif
+  authors:
+    - yashuaiyan
+    - esteve
+    - tegle
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+
+- id: VariableStiffness
+  title: "Variable Stiffness for Robust Locomotion through Reinforcement Learning"
+  venue: "IFAC, 59(18), 85-90 (2025)"
+  description: "We leverage variable stiffness control learned via reinforcement learning to achieve robust bipedal locomotion."
+  image: variablestiffness.png
+  authors:
+    - dspoljaric
+    - yashuaiyan
+    - dongheuilee
+
+- id: ConditionNET
+  title: "ConditionNET: Learning Preconditions and Effects for Anomaly Detection and Recovery"
+  venue: IEEE Robotics and Automation Letters
+  description: "Learn Preconditions and Effects of actions in a data-driven manner, and leverage the learned conditions for anomaly detection."
+  project_page: https://dsliwowski1.github.io/ConditionNET_page
+  arxiv: 2502.01167
+  image: ConditionNet.png
+  authors:
+    - danielsli
     - dongheuilee
 
 - id: RiTA_HAR
@@ -28,17 +213,6 @@
   awards:
     - "Winner of Best Intelligence Paper"
 
-- id: ConditionNET
-  title: "ConditionNET: Learning Preconditions and Effects for Anomaly Detection and Recovery"
-  venue: IEEE Robotics and Automation Letters
-  description: "Learn Preconditions and Effects of actions in a data-driven manner, and leverage the learned conditions for anomaly detection."
-  project_page: https://dsliwowski1.github.io/ConditionNET_page
-  arxiv: 2502.01167
-  image: ConditionNet.png
-  authors:
-    - danielsli
-    - dongheuilee
-
 - id: SAW
   title: "Know your limits! Optimize the behavior of bipedal robots through self-awareness"
   venue: Humanoids 2024 and HFR 2024
@@ -51,22 +225,7 @@
     - dongheuilee
   # awards:
   #   - "Oral"
-    
-- id: I-CTRL
-  title: "I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning"
-  venue: IEEE Robotics and Automation Magazine
-  description: "Control any bipedal humanoid robot by imitating human movements. Any motion, any robot, and in physics-based simulators!"
-  project_page: "https://evm7.github.io/I-CTRL/"
-  arxiv: 2405.08726
-  image: ictrl.gif
-  authors:
-    - yashuaiyan
-    - esteve
-    - tegle
-    - dongheuilee
-  awards:
-    - "Journal Paper"
-    
+
 - id: ECHO
   title: "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction"
   venue: "IEEE International Conference on Robotics and Automation (ICRA 2024)"
@@ -91,7 +250,7 @@
     - jheidersberger
     - cott
     - dongheuilee
-    
+
 - id: UNIMASK-M
   title: "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis"
   venue: AAAI 2024
@@ -103,7 +262,7 @@
     - esteve
     - hyeminahn
     - dongheuilee
-    
+
 - id: ImitationNet
   title: "Unsupervised human-to-robot motion retargeting via expressive latent space"
   venue: Humanoids 2023
@@ -117,7 +276,7 @@
     - dongheuilee
   # awards:
   #   - "Oral"
-    
+
 - id: hoi4abot
   title: "HOI4ABOT: Human-Object Interaction Anticipation for Assistive roBOTs"
   venue: Conference on Robot Learning (CoRL 2023)
@@ -145,7 +304,7 @@
     - dongheuilee
   awards:
     - "Journal Paper"
-    
+
 - id: diffusionmotion
   title: "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?"
   venue: IEEE International Conference on Robotics and Automation (ICRA 2023)
@@ -186,5 +345,3 @@
     - shuoma
     - hyeminahn
     - dongheuilee
-
-

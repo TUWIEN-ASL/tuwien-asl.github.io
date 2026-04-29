@@ -42,3 +42,83 @@ cott:
   first_name: Christian
   last_name: Ott
   website: https://www.acin.tuwien.ac.at/en/staff/cott/
+jkaiser:
+  first_name: Jakob
+  last_name: Kaiser
+  website:
+lmihiczidar:
+  first_name: Lucia
+  last_name: Mihić Zidar
+  website:
+acurioni:
+  first_name: Arianna
+  last_name: Curioni
+  website:
+ljohannsen:
+  first_name: Leif
+  last_name: Johannsen
+  website:
+sspark:
+  first_name: SeongSu
+  last_name: Park
+  website:
+khlee:
+  first_name: KwanHyun
+  last_name: Lee
+  website:
+dkim:
+  first_name: Donghyeon
+  last_name: Kim
+  website:
+jhryu:
+  first_name: JeeHwan
+  last_name: Ryu
+  website:
+cli:
+  first_name: Chengxi
+  last_name: Li
+  website:
+dongmyoung:
+  first_name: Dongmyoung
+  last_name:
+  website:
+cwillibald:
+  first_name: Christoph
+  last_name: Willibald
+  website:
+jspisak:
+  first_name: Josua
+  last_name: Spisak
+  website:
+jbenad:
+  first_name: Jan
+  last_name: Benad
+  website:
+sverschoor:
+  first_name: Stephan
+  last_name: Verschoor
+  website:
+planillos:
+  first_name: Pablo
+  last_name: Lanillos
+  website:
+stpopescu:
+  first_name: Sergiu Tcaci
+  last_name: Popescu
+  website:
+khschulleri:
+  first_name: Katrin Hanna
+  last_name: Schulleri
+  website:
+sian:
+  first_name: SangIk
+  last_name: An
+  website:
+gpark:
+  first_name: Gyunghoon
+  last_name: Park
+  website:
+dspoljaric:
+  first_name: Dario
+  last_name: Spoljaric
+  website:

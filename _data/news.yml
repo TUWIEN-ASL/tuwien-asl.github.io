@@ -1,3 +1,55 @@
+- date: Jun 2026
+  description: >-
+    [_M2R2_](https://tuwien-asl.github.io/M2R2_page/) has been accepted to ICRA 2026!
+
+- date: Jun 2026
+  description: >-
+    [_ATLAS_](https://tuwien-asl.github.io/ATLAS_page/) has been accepted to ARSO 2026!
+
+- date: Jun 2026
+  description: >-
+    _DexTwist_ has been accepted to ARSO 2026!
+
+- date: Feb 2026
+  description: >-
+    _Cross-Embodiment Imitation_ has been accepted to IEEE Robotics & Automation Magazine!
+
+- date: Nov 2025
+  description: >-
+    Our "Constraint-Informed Temporal Action Segmentation" paper was presented at ICCAS 2025.
+
+- date: Nov 2025
+  description: >-
+    Our "Robot Behavior Generation for Social Human-Robot Interaction" paper was published in International Journal of Social Robotics!
+
+- date: Oct 2025
+  description: >-
+    Our "Multimodal Anomaly Detection with a Mixture-of-Experts" paper was accepted at IROS 2025.
+
+- date: Sep 2025
+  description: >-
+    Our "Personalized Motion Retargeting through Bidirectional Human-Robot Imitation" paper was accepted at ICDL 2025.
+
+- date: Sep 2025
+  description: >-
+    Our "Computational models of the emergence of self-exploration in 2-month-old infants" paper was accepted at ICDL 2025.
+
+- date: Jul 2025
+  description: >-
+    Our "Partner familiarity enhances performance in a manual precision task" paper was published in Scientific Reports!
+
+- date: Jun 2025
+  description: >-
+    Our "Learning dexterous robot hand control by imitating human hands" paper was accepted at UR 2025.
+
+- date: Jun 2025
+  description: >-
+    Our "The balance stabilising benefit of social touch" paper was published in PLOS ONE!
+
+- date: Mar 2025
+  description: >-
+    Our paper on prioritized output tracking control was published in IEEE Transactions on Automatic Control!
+
 - date: Feb 2025
   description: >-
     We are releasing the [_REASSEMBLE_](https://tuwien-asl.github.io/REASSEMBLE_page/) dataset.
@@ -10,6 +62,10 @@
   description: >-
     [_I-CTRL_](https://evm7.github.io/I-CTRL/) has been accepted to RAM Journal!
 
+- date: Jan 2025
+  description: >-
+    Our "Variable Stiffness for Robust Locomotion through Reinforcement Learning" paper was published in IFAC!
+
 - date: Dec 2024
   description: >-
     Our "Multimodal Transformer Models for Human Action Classification" paper at RiTA has won the reward of the Best Intelligence Paper.
@@ -21,7 +77,7 @@
 - date: Sep 2024
   description: >-
     [_Self-AWare_](https://evm7.github.io/Self-AWare/) has been accepted to Humanoids 2024 and HFR 2024.
-    
+
 - date: Jun 2024
   description: >-
     [_I-CTRL_](https://evm7.github.io/I-CTRL/) is out! Take a look to control any bipedal humanoid robots by imitating any human motion.
@@ -33,15 +89,15 @@
 - date: Dec 2023
   description: >-
     [_ECHO_](https://evm7.github.io/ECHO/) has been accepted to ICRA 2024.
-    
+
 - date: Dec 2023
   description: >-
     [_UNIMASK-M_](https://evm7.github.io/UNIMASKM-page/) has been accepted to AAAI 2024.
-    
+
 - date: Sep 2023
   description: >-
     [_ImitationNet_](https://evm7.github.io/UnsH2R/) has been accepted to Humanoids 2023.
-    
+
 - date: Sep 2023
   description: >-
     [_HOI4ABOT_](https://evm7.github.io/HOI4ABOT_page/) has been accepted to CoRL 2023.
@@ -50,13 +106,13 @@
   description: >-
     [_HOI-Gaze_](https://evm7.github.io/HOIGaze-page/) has been accepted to CVIU Journal 2023.
 
-- date: Jan 2023 
+- date: Jan 2023
   description: >-
-    [DiffusionMotion](https://sites.google.com/view/diffusion-motion-prediction) has been accepted to ICRA 2023. 
+    [DiffusionMotion](https://sites.google.com/view/diffusion-motion-prediction) has been accepted to ICRA 2023.
 
 - date: Nov 2022
   description: >-
-    [I-CVAE](https://evm7.github.io/icvae-page/) has been accepted to WACV 2023. 
+    [I-CVAE](https://evm7.github.io/icvae-page/) has been accepted to WACV 2023.
 
 - date: Oct 2022
   description: >-

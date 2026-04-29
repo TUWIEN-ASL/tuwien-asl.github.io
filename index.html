@@ -87,17 +87,20 @@ layout: null
 
       <h2 class="title is-3">News</h2>
       <div class="content">
-        <ul>
-          {% for news in site.data.news %}
-          <li>
-            <b>{{ news.date }}</b>: {{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}
-          </li>
-          {% endfor %}
-        </ul>
+        <div class="scrollable-list">
+          <ul>
+            {% for news in site.data.news %}
+            <li>
+              <b>{{ news.date }}</b>: {{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
 
       <h2 class="title is-3">Publication Pages</h2>
 
+      <div class="scrollable-publications">
       {% for publication in site.data.publications %}
       <div class="publication-block columns">
 
@@ -163,6 +166,7 @@ layout: null
         </div>
       </div>
       {% endfor %}
+      </div>
     </div>
   </section>
 
