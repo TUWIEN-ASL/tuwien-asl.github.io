@@ -15,6 +15,7 @@
   description: "We present an annotation tool designed for efficient labeling of long-horizon robotic action segmentation datasets."
   image: atlas.png
   project_page: https://tuwien-asl.github.io/ATLAS_page/
+  arxiv: 2604.26637
   authors:
     - sstanovcic
     - danielsli
