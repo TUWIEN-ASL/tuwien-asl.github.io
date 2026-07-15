@@ -3,7 +3,7 @@
   venue: "IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS2026)"
   description: "We propose an approach to learn forward and reverse manipulation skills from partialy completed demonstrations."
   project_page: https://tuwien-asl.github.io/LfD-Screw/
-  arxiv: 2605.29564
+  arxiv: 
   image: lfd-screw.jpg
   authors:
     - yhu
