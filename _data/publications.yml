@@ -66,6 +66,20 @@
     - dongmyoung
     - cli
 
+- id: LOPAL
+  title: "LOPAL: Local Performance-Aware Active Learning from Imperfect Demonstrations"
+  venue: "IEEE Robotics and Automation Letters, 11(7), 9040-9047 (2026)"
+  description: "We propose an active learning approach that combines the locally best parts of imperfect demonstrations and requests corrections only where needed."
+  project_page: https://jheiders.github.io/LOPAL/
+  arxiv: 2606.16888
+  image: lopal.png
+  authors:
+    - jheidersberger
+    - sjadav
+    - dongheuilee
+  awards:
+    - "Journal Paper"
+
 - id: CrossEmbodiment
   title: "Cross-Embodiment Imitation: Learning a Unified Latent Space for Multirobot Control"
   venue: "IEEE Robotics & Automation Magazine"
