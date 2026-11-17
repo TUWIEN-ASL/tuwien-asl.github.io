@@ -4,7 +4,7 @@
   description: "We propose an approach to generate temporaly consistent planning-ready scenegraph from robotic demonstrations."
   project_page: https://tuwien-asl.github.io/sg2sp-humanoids-2026/
   arxiv: 
-  image: teaser_lastver.png
+  image: sg2sp_overwiew.png
   authors:
     - Hzheng
     - dsliwowski
